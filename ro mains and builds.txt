@@ -1,3 +1,5 @@
 ro mains and builds
 
 shadow chaser, spell autocast build
+alchemist, brewer type
+scholar, hindsight type
